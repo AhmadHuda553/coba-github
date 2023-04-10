@@ -1,4 +1,4 @@
-print("coba GitHub")
+print("Ohayo Sekai Good Morning World!")
 
 n = 5
 
